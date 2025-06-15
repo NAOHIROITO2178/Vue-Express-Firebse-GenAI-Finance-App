@@ -8,7 +8,7 @@ app.use(cors()); // Vueと通信するためCORSを有効に
 app.use(express.json());
 
 app.get('/api/hello', (_req, res) => {
-  res.json({ message: 'ExpressとTypeScriptの世界へようこそ!' });
+  res.json({ message: 'TypescriptベースのVueとExpressの世界へようこそ! 今後はFirebase + GeminiAPI + VantageAPIを実装予定！' });
 });
 
 app.listen(port, () => {
