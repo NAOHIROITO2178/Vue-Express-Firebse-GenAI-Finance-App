@@ -1,2 +1,2 @@
 フロントエンド画面(2025/06/29時点）
-![スクリーンショット 2025-06-29 22 15 16](https://github.com/user-attachments/assets/0be692e2-06e3-48d7-8b91-3c688526c8e3)
+<img width="622" alt="スクリーンショット 2025-06-29 23 35 12" src="https://github.com/user-attachments/assets/3e4e31fb-260f-4bd1-9005-357179a7ecdc" />
